@@ -286,8 +286,7 @@ pm2 status
 **Nginx Config**
 ![Nginx Config](screenshots/task3-nginx-config.png)
 
-**App Running (PM2)**
-![App Running](screenshots/task3-app-running.png)
+
 
 ---
 
