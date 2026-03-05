@@ -341,7 +341,7 @@ pm2 status
 
 ## LinkedIn Post
 
-[Paste your LinkedIn post URL here]
+https://www.linkedin.com/posts/gregodi_azure-cloudcomputing-devops-activity-7435282633154187264-nwPn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE5EKpEBPgpai0QaYwYtYw7WEaN8rrsFRF4
 
 ---
 
